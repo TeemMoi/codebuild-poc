@@ -2,9 +2,10 @@
 	"reporters": [
 	"default",
 	[
-		"./node_modules/jest-html-reporter",
+		"jest-junit",
 		{
-			"pageTitle": "Test Report"
+			"outputDirectory": "reports",
+			"outputName": "test-report.xml"
 		}
 	]
 	]
