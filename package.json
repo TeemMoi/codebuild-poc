@@ -1,0 +1,19 @@
+{
+    "name": "test",
+    "version": "1.0.0",
+    "main": "TEST.js",
+    "directories": {
+      "test": "test"
+    },
+    "scripts": {
+      "test": "jest"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "description": "",
+    "devDependencies": {
+      "jest": "^29.3.1"
+    }
+    
+  }
